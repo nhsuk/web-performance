@@ -29,5 +29,3 @@ https://www.webpagetest.org/video/compare.php?tests=200710_PB_11e9408a7f7b5be018
 https://javascript.info/onload-ondomcontentloaded
 
 https://www.webpagetest.org/video/compare.php?tests=200710_5B_b982fd5e61d73fcb18aa0e981fdecdaa,200710_VN_c7bf5456eeaf37254f1db83375d03321
-
-## Google lighthouse
